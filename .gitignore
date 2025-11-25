@@ -34,7 +34,3 @@ proguard-project.txt
 # Android Studio/IDEA
 *.iml
 .idea
-# Project exclude paths
-/.github/
-/app/
-/gradle/
